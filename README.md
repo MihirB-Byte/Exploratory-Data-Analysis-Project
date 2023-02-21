@@ -16,8 +16,3 @@ Used US Accidents (2016 - 2021) dataset for this exploratory project. The datase
 -Summarise your inferences & write a conclusion
 
 -Document, publish and present Jupyter notebook online
-
-Used Jovian notebooks to demonstrate my work and analysis:
-
-To view the notebook : https://jovian.ai/mihirb-byte/us-accidents-analysis#C0
-
